@@ -5,3 +5,5 @@ crashes/*
 b
 tests
 tests/*
+output/__pycache__
+output/__pycache__/*
